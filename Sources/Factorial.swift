@@ -4,3 +4,4 @@ func factorial(n: Int) -> Int {
 }
 let number = 4
 print("\(number)! is equal to \(factorial(number))")
+print("End")
